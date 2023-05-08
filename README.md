@@ -1,8 +1,11 @@
 # Video-Game-Store-Website
 
 Introduction
+
 The purpose of this project was to create a website for a video game shop using a minimal gold and black color scheme. The website has various features such as sign up, login, browsing games, adding games to cart or Wishlist, and checkout. Additionally, an admin panel was created for managing games, and an easter egg page was added for fun.
+
 Design
+
 The website design was based on a minimal gold and black color scheme, with custom icons created for the navigation bar. The homepage (index.php) displays the logo, and the navigation bar allows the user to browse the website's various sections. My index.php is a basic one where the user sees the logo and then they can navigate the page using the navigation bar on top.
 •	The signup.php uses a form to get data from the user, it takes a username , an email and a password with an additional field for the user to confirm their password, then the user can click the sign up button to register, the user will be notified if the username or email they added was already in use and they will not be able to make a new account with the same.
 •	The login.php uses a form to get the username or email and the password of the user and if it finds the user in the database it then proceeds to log them in the website which unlocks many features, if the username admin and password admin is inputted it unlock a new page for admins to manage the games that are currently on display.
